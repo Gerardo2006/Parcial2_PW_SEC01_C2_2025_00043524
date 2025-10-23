@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "a1f9e3c0d1b2c3d4e5f6g7",
+    "isActive": true,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money_1140x642_ai_fw_io.original.png",
+    "balance": "$10234",
+    "client": "Lorem Ipsum",
+    "gender": "male"
+  },
+  {
+    "_id": "b2c3d4e5f6g7h8i9j0k1l2",
+    "isActive": false,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money_1140x642_ai_fw_io.original.png",
+    "balance": "$8745",
+    "client": "Dolor Sit",
+    "gender": "female"
+  },
+  {
+    "_id": "c3d4e5f6g7h8i9j0k1l2m3",
+    "isActive": true,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money_1140x642_ai_fw_io.original.png",
+    "balance": "$15678",
+    "client": "Amet Consectetur",
+    "gender": "male"
+  },
+  {
+    "_id": "d4e5f6g7h8i9j0k1l2m3n4",
+    "isActive": true,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money_1140x642_ai_fw_io.original.png",
+    "balance": "$9321",
+    "client": "Adipiscing Elit",
+    "gender": "female"
+  },
+  {
+    "_id": "e5f6g7h8i9j0k1l2m3n4o5",
+    "isActive": false,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money_1140x642_ai_fw_io.original.png",
+    "balance": "$12000",
+    "client": "Sed Do",
+    "gender": "male"
+  },
+  {
+    "_id": "f6g7h8i9j0k1l2m3n4o5p6",
+    "isActive": true,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money_1140x642_ai_fw_io.original.png",
+    "balance": "$14300",
+    "client": "Eiusmod Tempor",
+    "gender": "female"
+  },
+  {
+    "_id": "g7h8i9j0k1l2m3n4o5p6q7",
+    "isActive": true,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money_1140x642_ai_fw_io.original.png",
+    "balance": "$11050",
+    "client": "Incididunt Ut",
+    "gender": "male"
+  }
+]
