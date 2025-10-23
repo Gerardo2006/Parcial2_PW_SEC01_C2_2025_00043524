@@ -1,6 +1,6 @@
-*Gerardo Cornejo Orellana*
-*Seccion 01*
-*00043524*
+-Gerardo Cornejo Orellana-
+Seccion 01
+00043524
 
 Endpoints:
 Cuentas: http://localhost:3130/cuentas
